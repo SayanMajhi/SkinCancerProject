@@ -1,0 +1,71 @@
+{
+  "build": "h2466b09_1",
+  "build_number": 1,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [
+    "xz 5.8.1.*",
+    "xz ==5.8.1 *_1"
+  ],
+  "depends": [
+    "liblzma 5.8.1 h2466b09_1",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "C:\\Users\\Asus\\.conda\\pkgs\\xz-tools-5.8.1-h2466b09_1",
+  "files": [
+    "Library/bin/lzmadec.exe",
+    "Library/bin/lzmainfo.exe",
+    "Library/bin/xz.exe",
+    "Library/bin/xzdec.exe"
+  ],
+  "fn": "xz-tools-5.8.1-h2466b09_1.conda",
+  "license": "0BSD AND LGPL-2.1-or-later",
+  "link": {
+    "source": "C:\\Users\\Asus\\.conda\\pkgs\\xz-tools-5.8.1-h2466b09_1",
+    "type": 1
+  },
+  "md5": "0e905c48199df080f788c0aa061cded7",
+  "name": "xz-tools",
+  "package_tarball_full_path": "C:\\Users\\Asus\\.conda\\pkgs\\xz-tools-5.8.1-h2466b09_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/lzmadec.exe",
+        "path_type": "hardlink",
+        "sha256": "eddbecf17cebe6a3884117bbff4312e906eb01d9f0caa03c147c16aceff6840e",
+        "sha256_in_prefix": "eddbecf17cebe6a3884117bbff4312e906eb01d9f0caa03c147c16aceff6840e",
+        "size_in_bytes": 22016
+      },
+      {
+        "_path": "Library/bin/lzmainfo.exe",
+        "path_type": "hardlink",
+        "sha256": "700e1b27f7523e8fefc489620ef8666edd360b7c0946380f3350ae558ff9729c",
+        "sha256_in_prefix": "700e1b27f7523e8fefc489620ef8666edd360b7c0946380f3350ae558ff9729c",
+        "size_in_bytes": 23040
+      },
+      {
+        "_path": "Library/bin/xz.exe",
+        "path_type": "hardlink",
+        "sha256": "c5967a9d6234994fb52a099944ea22ec92fafe4aaa47be8c828d510aa27297cf",
+        "sha256_in_prefix": "c5967a9d6234994fb52a099944ea22ec92fafe4aaa47be8c828d510aa27297cf",
+        "size_in_bytes": 79872
+      },
+      {
+        "_path": "Library/bin/xzdec.exe",
+        "path_type": "hardlink",
+        "sha256": "ca0c666321bdad823df90e5171d4ebeaef7929c1b4aec7596c919f646d899724",
+        "sha256_in_prefix": "ca0c666321bdad823df90e5171d4ebeaef7929c1b4aec7596c919f646d899724",
+        "size_in_bytes": 22016
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "bef20051ba1f7e506d5ce52baa32896301ee00b0f287465b21e56cc9dbe7ce31",
+  "size": 66996,
+  "subdir": "win-64",
+  "timestamp": 1746531781000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/xz-tools-5.8.1-h2466b09_1.conda",
+  "version": "5.8.1"
+}

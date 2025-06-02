@@ -1,0 +1,12 @@
+prefix=d:/SkinCancer/SkinCancerProject/venv/Library
+exec_prefix=d:/SkinCancer/SkinCancerProject/venv/Library
+libdir=d:/SkinCancer/SkinCancerProject/venv/Library/lib
+includedir=d:/SkinCancer/SkinCancerProject/venv/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: 
+Requires.private: 
+Cflags: -I${includedir} 
