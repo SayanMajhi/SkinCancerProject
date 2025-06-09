@@ -83,7 +83,7 @@ pip install -r requirements.txt
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone (https://github.com/SayanMajhi/SkinCancerProject.git)
    ```
 2. Navigate to the project directory:
    ```
