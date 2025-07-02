@@ -1,0 +1,33 @@
+
+==========================
+Timestamp : 2025-07-01 21:10:08
+Model     : CNN
+Accuracy  : 0.9363
+Precision : 0.9503
+Recall    : 0.9363
+F1 Score  : 0.9390
+ROC AUC   : 0.9963
+==========================
+
+
+==========================
+Timestamp : 2025-07-01 21:11:16
+Model     : EfficientNetB0
+Accuracy  : 0.9457
+Precision : 0.9470
+Recall    : 0.9457
+F1 Score  : 0.9459
+ROC AUC   : 0.9966
+==========================
+
+
+==========================
+Timestamp : 2025-07-02 19:02:16
+Model     : DenseNet121
+Accuracy  : 0.9493
+Precision : 0.9510
+Recall    : 0.9493
+F1 Score  : 0.9493
+ROC AUC   : 0.9973
+==========================
+
